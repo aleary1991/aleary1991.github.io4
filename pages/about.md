@@ -31,7 +31,7 @@ Allen Leary is a PhD student in Biophysics at McGill University under the joint 
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
+        <a href="../assets/pics/AllenLeary.jpg">
             <img src="../assets/pics/AllenLeary.jpg"
                   title="Allen Leary" alt="Allen Leary"/></a>
         </div>
