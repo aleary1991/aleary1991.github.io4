@@ -17,7 +17,7 @@ Allen Leary is a PhD student in Biophysics at McGill University under the joint 
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
+            Allen Leary<br/>
             <a href="http://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
             <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
             <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
@@ -29,7 +29,6 @@ Allen Leary is a PhD student in Biophysics at McGill University under the joint 
             Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
             </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
             </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
             </div>
         </div>
 
