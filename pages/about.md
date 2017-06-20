@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: Allen Leary is a PhD student in Biophysics at McGill University under the joint supervision of Professor Vogel (Dept of Biology & Comp Sci) and professor Francois (Dept of Physics)
 ---
 
 Karl Broman is Professor in the
