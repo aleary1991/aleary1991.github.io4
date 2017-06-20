@@ -166,9 +166,6 @@ trait locus mapping.
 <!-- * 134 * -->
 <!-- http://doi.org/10.1534/genetics.114.172742 -->
 
-
-
-
 ### <a name="thesis"></a>dissertation
 
 **Broman KW** (1997) Identifying quantitative trait loci in
