@@ -6,7 +6,7 @@ description: Allen Leary is a PhD student in Biophysics at McGill University und
 Allen Leary is a PhD student in Biophysics at McGill University under the joint supervision of [Professor Vogel](http://aguada.biol.mcgill.ca/) (Dept of Biology & Comp Sci) and [Professor Francois](https://www.mcgill.ca/francois-group/home) (Dept of Physics).
 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_Allen.pdf)
 
 [impactstory page](https://impactstory.org/u/0000-0002-4914-6671)
 
