@@ -3,7 +3,7 @@ layout: page
 title: about
 description: Allen Leary is a PhD student in Biophysics at McGill University under the joint supervision of Professor Vogel (Dept of Biology & Comp Sci) and professor Francois (Dept of Physics)
 ---
-Allen Leary is a PhD student in Biophysics at McGill University under the joint supervision of Professor Vogel (Dept of Biology & Comp Sci) and professor Francois (Dept of Physics)
+Allen Leary is a PhD student in Biophysics at McGill University under the joint supervision of [Professor Vogel](http://aguada.biol.mcgill.ca/) (Dept of Biology & Comp Sci) and professor Francois (Dept of Physics)
 
 Karl Broman is Professor in the
 [Department of Biostatistics &amp; Medical Informatics](http://www.biostat.wisc.edu)
