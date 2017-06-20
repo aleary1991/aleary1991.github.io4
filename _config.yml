@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Karl Broman
+title : Allen Leary
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : Allen Leary
+  email : a.y.leary@gmail.com
+  github : aleary1991
+  twitter : nil
   feedburner : nil
 
 production_url : http://kbroman.github.io
