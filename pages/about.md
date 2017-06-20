@@ -8,7 +8,7 @@ Allen Leary is a PhD student in Biophysics at McGill University under the joint 
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_Allen.pdf)
 
-[Linkdin page](https://www.linkedin.com/in/allen-leary-1b528682/)
+[Linkedin page](https://www.linkedin.com/in/allen-leary-1b528682/)
 
 ---
 
