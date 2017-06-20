@@ -32,8 +32,8 @@ Allen Leary is a PhD student in Biophysics at McGill University under the joint 
 
         <div class="span2">
         <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+            <img src="../assets/pics/AllenLeary.jpg"
+                  title="Allen Leary" alt="Allen Leary"/></a>
         </div>
     </div>
 </div>
